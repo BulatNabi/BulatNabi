@@ -24,7 +24,7 @@
 
 - :zap: В свободное время читаю книги и играю в волейбол.
 
-- :mailbox:Можете связаться со мной тут: [![Telegram Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](t.me/talubarni)
+- :mailbox:Можете связаться со мной тут: [![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=Telegram&logoColor=white)](t.me/talubarni)
 
 ---
 
