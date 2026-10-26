@@ -24,7 +24,7 @@
 
 - :zap: В свободное время читаю книги, хожу в зал.
 
-- :mailbox:Можете связаться со мной тут: [![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=Telegram&logoColor=white)](t.me/talubarni)
+- :mailbox: Можете связаться со мной тут: [![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=Telegram&logoColor=white)](t.me/talubarni)
 
 ---
 <h3 align="left">🏆  Мои достижения</h3>
